@@ -41,7 +41,7 @@ This document lists all Unicode symbols that TextInTeX may use during rendering.
 
 ⊕⊗⊙
 
-∵∴∅√□△
+∵∴∅√□△°
 
 ∩∪∈∋⊂⊃⊆⊇∉∌⊄⊅⊈⊉
 
